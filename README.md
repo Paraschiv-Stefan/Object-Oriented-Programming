@@ -1,15 +1,10 @@
 ## Object-Oriented-Programming
- - Laboratory 1:
-    - [Problem 1](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/AI1-website)
-    - [Problem 2](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_1)
--  Laboratory 2:
-    - [Problem 1](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_1)
-    - [Problem 2](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_2)
--  Laboratory 3:
-    - [Problem 1](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_1)
-    - [Problem 2](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_2)
--  Laboratory 4:
-    - [Problem 1](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_1)
-    - [Problem 2](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_2)
+ - OOP:
+    - [Laboratory 1](https://github.com/Paraschiv-Stefan/Object-Oriented-Programming/tree/LAB1-Prob1_Prob2)
+    - [Laboratory 2](https://github.com/Paraschiv-Stefan/Object-Oriented-Programming/tree/LAB2-Prob1_Prob2)
+    - [Laboratory 3](https://github.com/Paraschiv-Stefan/Object-Oriented-Programming/tree/LAB3-Prob1_Prob2)
+    - [Laboratory 4](https://github.com/Paraschiv-Stefan/Object-Oriented-Programming/tree/LAB4-Prob1_Prob2)
+    - [Last Laboratory](https://github.com/Paraschiv-Stefan/Object-Oriented-Programming/tree/Last-LAB)
+   
    
    
